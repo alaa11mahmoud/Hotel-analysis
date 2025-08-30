@@ -7,7 +7,7 @@
 
 # 📁 Hotel_Booking_Project
 ## │── 📓 Clean_hotel_data.ipynb 
-        ###Data Cleaning
+         Data Cleaning
           - Imported raw dataset.
           - Handled missing values.
           - Standardized column formats (dates, cities, markets).
@@ -15,10 +15,10 @@
           - Ensured data quality and readiness for analysis.
           
 ## │── 📓 Analysis.pbix             
-          ### Data Modeling (Star Schema)
+          Data Modeling (Star Schema)
           - To structure the data for analysis, I designed a Star Schema with one Fact Table and several Dimension tables
 
-          ### Data Analysis  
+          Data Analysis  
           - Calculated the percentage of rejected bookings relative to total bookings.
           - Compared rejection rates across cities.
           - Analyzed rejection rates by market segment.
