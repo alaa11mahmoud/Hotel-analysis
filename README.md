@@ -1,4 +1,5 @@
-# This project focuses on analyzing hotel booking data, with a special interest in rejected/canceled bookings across different cities, market segments, and time periods.
+# Hotel Analysis
+This project focuses on analyzing hotel booking data, with a special interest in rejected/canceled bookings across different cities, market segments, and time periods
 
 ### The project is divided into three main phases:
   - Data Cleaning – preparing and standardizing the raw dataset.
@@ -24,8 +25,6 @@
           - Analyzed rejection rates by market segment.
           - Tracked seasonal trends in rejections across months.
                
-## │── 📄 README.md      
-
 ## │── Tools & Technologies
           - Python (Pandas)
           - Jupyter Notebook
